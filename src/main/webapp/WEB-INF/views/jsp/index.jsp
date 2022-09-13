@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Shweta's  Training, in FULLY automated jenkins</h2>
+			<h2>Welcome to Shizuka's  Training, in FULLY automated jenkins</h2>
 			<h3>Contact shwtripathy</h3>
 		</div>	
 	</div>
